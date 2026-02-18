@@ -1,0 +1,12 @@
+beautifulsoup4
+selenium
+webdriver-manager
+python-dotenv
+langchain
+langchain-groq
+langchain-community
+huggingface-hub
+faiss-cpu
+torch
+numpy
+langgraph

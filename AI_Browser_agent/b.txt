@@ -1,0 +1,10 @@
+UserInput 
+   → IntentParser 
+      → Navigator 
+         → DOMFetcher 
+            → SelectorGenerator 
+               → ActionPlanner 
+                  → Executor 
+                     → Verifier 
+                        → (loop back to ActionPlanner if fail OR HumanConfirmation if needed) 
+                           → Responder

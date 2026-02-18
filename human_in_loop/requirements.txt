@@ -1,0 +1,9 @@
+langchain_core
+langchain_mcp_adapters
+langchain_groq
+langgraph
+pydantic
+httpx
+python-dotenv
+typing-extensions
+torch

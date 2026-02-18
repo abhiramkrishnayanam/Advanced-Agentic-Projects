@@ -1,0 +1,8 @@
+Send an email to Abhiram regarding tomorrows meeting at 11am in kochi. His email id is abhikrishnayanam1999@gmail.com
+Send a follow up email to Abhiram regarding the meeting sheduled for tomorrow. Its venue has been changed to Trivandrum.
+delete the email send to Abhiram.
+count the emails I got today.
+get me the summary of email thread send to abhikrishnayanam1999@gmail.com
+How can we update our name, phone number, and shipping addresses.
+What is the customer care toll-free number?
+Can I change the delivery address after my order has been shipped?
